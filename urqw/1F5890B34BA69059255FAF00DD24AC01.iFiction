@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>1F5890B34BA69059255FAF00DD24AC01</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Золотой ключик, или… Как всё было на самом деле</title>
+			<author>Акела, Шушкарт и неизвестный соавтор</author>
+			<language>ru</language>
+			<firstpublished>2005-07-09</firstpublished>
+			<genre>Юмор</genre>
+			<group>URQ</group>
+			<description>Вы Буратино :). Вас сделал мафиози Карлито по прозвищу "Плотник", из гнилого полена. Но, к сожалению, нечему обучить вас он не успел, так как был застрелен у себя в подъезде. На последнем вздохе (когда ты вышел посмотреть на его мучения в подъезд...) он сказал тебе: "Прощай, сынок" - и это единственная фраза, которую вы знаете... Теперь вы сами должны обучиться читать и писать. А также найти убийцу дона Карлито и страшно отомстить...</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#golden_key</url>
+			<authoremail>akela88@bk.ru, shushkart@gmail.com</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
