@@ -4,7 +4,7 @@ Text-based game "The Golden Key, or… How It Really Was" (Russian: "Золот�
 
 The game is in Russian, developed for RipURQ, and adapted for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#golden_key).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=golden_key).
 
 The game was first published on July 9, 2005.
 
